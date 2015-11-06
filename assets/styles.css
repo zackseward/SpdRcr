@@ -1,7 +1,51 @@
 body {
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 .logo {
   width: 30px;
+}
+
+.testimonial-wrapper {
+  background-color: pink;
+}
+
+.top {
+  /*margin-bottom: 0px;
+  margin-top: 0px;*/
+  background-image: url("images/incar.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+  color: white;
+  /*opacity: .6;*/
+  height: 500px;
+}
+
+
+.about {
+  /*margin-bottom: 0px;
+  margin-top: 0px;*/
+  background-image: url("images/track.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+  /*opacity: .8;*/
+  height: 500px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.img-circle {
+  padding: 20px;
+}
+
+.footer-bottom {
+  margin: 0;
 }
