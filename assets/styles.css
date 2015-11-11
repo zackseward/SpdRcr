@@ -3,7 +3,7 @@ body {
 }
 
 .logo {
-  width: 30px;
+  width: 60px;
 }
 
 .testimonial-wrapper {
@@ -24,19 +24,24 @@ body {
   height: 500px;
 }
 
+.form-inline {
+  padding: 10px;
+}
 
 .about {
   /*margin-bottom: 0px;
   margin-top: 0px;*/
-  background-image: url("images/track.jpg");
+  background-image: url("images/track-copy.jpg");
   background-position: 0% 25%;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   text-align: center;
-  /*opacity: .8;*/
-  height: 500px;
+  color: white;
+  /*opacity: .6;*/
+  height: 700px;
 }
+
 
 .jumbotron {
   text-align: center;
@@ -44,6 +49,10 @@ body {
 
 .img-circle {
   padding: 20px;
+}
+
+.page-header {
+  padding-top: 5px;
 }
 
 .footer-bottom {
