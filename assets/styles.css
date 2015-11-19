@@ -52,9 +52,17 @@ body {
 }
 
 .page-header {
-  padding-top: 5px;
+  padding: 5px 50px 5px 50px;
 }
 
 .footer-bottom {
   margin: 0;
+}
+
+.main-container {
+  padding: 0 50px;
+}
+
+.active a {
+  text-decoration: underline;
 }
