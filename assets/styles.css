@@ -66,3 +66,7 @@ body {
 .active a {
   text-decoration: underline;
 }
+
+.cars-container {
+  padding-left: 0;
+}
